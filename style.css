@@ -2,13 +2,13 @@ body {
 	background-color: black;
     display: table-cell;
     vertical-align: middle;
-	height: 75%;
+	height: 100%;
 }
 
 html {
     display: table;
     margin: auto;
-	height: 75%;
+	height: 100%;
 }
 
 #images {
