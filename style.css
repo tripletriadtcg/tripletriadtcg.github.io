@@ -11,6 +11,11 @@ html {
 	height: 100%;
 }
 
+body {
+max-width: max-content;
+margin: auto;
+}
+
 #images {
 	padding-top: 30px;
 	width: fit-content;
