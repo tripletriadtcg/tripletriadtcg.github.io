@@ -1,3 +1,5 @@
-# tripletriadtcg.github.io
+# Triple Triad Board Randomizer
 
-Board randomizer for Triple Triad.
+Play Triple Triad with the Elemental rule.
+
+Just click *New Board* to generate a board. Have fun!
