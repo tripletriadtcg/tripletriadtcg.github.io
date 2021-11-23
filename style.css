@@ -1,8 +1,18 @@
 body {
 	background-color: black;
+    display: table-cell;
+    vertical-align: middle;
+	height: 100%;
+}
+
+html {
+    display: table;
+    margin: auto;
+	height: 100%;
 }
 
 #images {
+	padding-top: 30px;
 	width: fit-content;
 	margin: 0 auto;
 }
@@ -33,7 +43,7 @@ img {
 	font-size: 34px;
 	font-weight: bold;
 	cursor: pointer;
-	box-shadow: 0 6px #999;
+	box-shadow: 0 8px #999;
 	border-radius: 12px;
 }
 
