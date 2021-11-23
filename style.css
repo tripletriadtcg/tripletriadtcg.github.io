@@ -4,13 +4,13 @@ body, html {
 
 body {
 	background-color: black;
-    display: table-cell;
-    vertical-align: middle;
+	display: table-cell;
+	vertical-align: middle;
 }
 
 html {
-    display: table;
-    margin: auto;
+	display: table;
+	margin: auto;
 }
 
 #images {
