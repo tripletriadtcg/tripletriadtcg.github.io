@@ -1,5 +1,4 @@
 body {
-	padding-top: 200px;
 	background-color: black;
 }
 
@@ -28,13 +27,13 @@ img {
 	border: none;
 	outline: none;
 	color: white;
-	padding: 15px 32px;
+	padding: 50px 90px;
 	text-align: center;
 	text-decoration: none;
-	font-size: 16px;
+	font-size: 34px;
 	font-weight: bold;
 	cursor: pointer;
-	box-shadow: 0 4px #999;
+	box-shadow: 0 6px #999;
 	border-radius: 12px;
 }
 
