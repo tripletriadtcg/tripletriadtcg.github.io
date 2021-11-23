@@ -6,4 +6,4 @@ Just click *New Board* to generate a board. Have fun! 👍
 
 https://tripletriadtcg.github.io/
 
-[Contribution guidelines for this project](index.html)
+[GitHub Pages](https://pages.github.com/)
